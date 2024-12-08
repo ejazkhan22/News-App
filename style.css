@@ -45,7 +45,7 @@ ul {
 }
 
 nav {
-    background-color: #f3faff;
+    background-color: rgb(225, 68, 68);
     box-shadow: 0 0 4px #bbd0e2;
     position: fixed;
     top: 0;
@@ -98,7 +98,7 @@ nav {
 }
 
 .search-button {
-    background-color: var(--accent-color);
+    background-color:black;
     color: white;
     padding: 8px 24px;
     border: none;
